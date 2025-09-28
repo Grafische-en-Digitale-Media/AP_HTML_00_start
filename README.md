@@ -1,7 +1,10 @@
-# AP_HTML_00_start #
+# AP HTML 00 Start #
 ### Repository that illustrates the basics on HTML and CSS. ###
 
 
+<small>
 Digital & Graphic Media at AP, Antwerp - Belgium
 Repository for students of Digital & Graphic Media at AP, Antwerp - Belgium.
+</small>
 
+> small note here
