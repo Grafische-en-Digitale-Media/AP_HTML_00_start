@@ -26,8 +26,11 @@ this file, explaining the repository’s purpose, structure, how to run / test, 
 ##  Usage Instructions
 Clone or fork the repo:
 git clone https://github.com/Grafische-en-Digitale-Media/AP_HTML_00_start.git
+
 Open index.html in your browser to see the rendered page.
+
 Edit the HTML / CSS files (e.g. in assets/) to experiment with layout, colors, typography, structure, etc.
+
 Use your browser’s developer tools (Inspect, CSS inspector) to see how changes affect the DOM / styles in real time.
 
 ##  Suggested Next Steps (in the curriculum)
