@@ -12,15 +12,14 @@ https://aphtml00.netlify.app/
 
 Use the live demo to quickly see how the HTML + CSS are rendered, and to validate that your local version behaves equivalently.
 
-##  Content & Structure
 Typical contents of this repository include:
-# index.html # 
+# index.html 
 the main HTML file demonstrating document structure, elements like headings, paragraphs, links, images, etc.
-# assets/ #
+# assets/ 
 folder for stylesheets, images, or other supporting files.
-# .gitignore #
+# .gitignore 
 to exclude system files or build artifacts.
-# README.md #
+# README.md 
 this file, explaining the repository’s purpose, structure, how to run / test, and guidelines.
 
 
