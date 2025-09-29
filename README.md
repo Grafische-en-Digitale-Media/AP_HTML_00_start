@@ -1,18 +1,12 @@
-# AP HTML 00 Start #
-### Repository that illustrates the basics on HTML and CSS. ###
-
 Repository that illustrates the basics of HTML and CSS — part of the Grafische en Digitale Media learning materials. 
 
-
-## Purpose & Scope
-# Introduces fundamental concepts in HTML and CSS.
+## Introduces fundamental concepts in HTML and CSS.
 
 Serves as a starting point for students in Digital & Graphic Media (AP Antwerp) to explore structure, semantic elements, styling, and basic layout.
 Contains simple, annotated example code that is easy to read, run, and modify.
 Enables learners to experiment, break things, and then understand how changes affect rendering in the browser.
 
-## Demo / Live Version
-# A live version of this repository is deployed at:
+## A live version of this repository is deployed at:
 https://aphtml00.netlify.app/ 
 
 
