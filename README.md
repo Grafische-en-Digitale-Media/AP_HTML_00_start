@@ -13,13 +13,13 @@ https://aphtml00.netlify.app/
 Use the live demo to quickly see how the HTML + CSS are rendered, and to validate that your local version behaves equivalently.
 
 Typical contents of this repository include:
-# index.html 
+index.html 
 the main HTML file demonstrating document structure, elements like headings, paragraphs, links, images, etc.
-# assets/ 
+assets/ 
 folder for stylesheets, images, or other supporting files.
-# .gitignore 
+.gitignore 
 to exclude system files or build artifacts.
-# README.md 
+README.md 
 this file, explaining the repository’s purpose, structure, how to run / test, and guidelines.
 
 
@@ -29,13 +29,6 @@ git clone https://github.com/Grafische-en-Digitale-Media/AP_HTML_00_start.git
 Open index.html in your browser to see the rendered page.
 Edit the HTML / CSS files (e.g. in assets/) to experiment with layout, colors, typography, structure, etc.
 Use your browser’s developer tools (Inspect, CSS inspector) to see how changes affect the DOM / styles in real time.
-
-##  Best Practices & Guidance
-Keep HTML semantic — use <header>, <nav>, <section>, <footer>, etc., wherever appropriate.
-Separate structure (HTML) from presentation (CSS).
-Use classes and IDs meaningfully and sparingly (avoid over-nesting).
-Comment your code to explain why, not just what.
-Test in multiple browsers/devices to see how CSS behaves differently.
 
 ##  Suggested Next Steps (in the curriculum)
 Once students are comfortable with this starter repository, they may proceed to:
